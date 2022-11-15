@@ -1,1 +1,1 @@
-# dio-DynamoDB
+# Projeto DIO - Boas práticas com DynamoDB
